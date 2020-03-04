@@ -1,3 +1,3 @@
-sebinCHAIN
+CHAIN
 
-#This is the Initial Stage of the sebinChain 
+#This is the Initial Stage of the Chain 
